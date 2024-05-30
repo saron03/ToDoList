@@ -1,6 +1,6 @@
 package Linkedlist;
 public class Node {
-	//attributes
+	//attributee
 	Task task;
 	Node next;
 	
